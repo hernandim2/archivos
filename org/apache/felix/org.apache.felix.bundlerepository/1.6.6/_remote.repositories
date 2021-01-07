@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 28 18:39:23 ART 2020
+org.apache.felix.bundlerepository-1.6.6.jar>central=
+org.apache.felix.bundlerepository-1.6.6.pom>central=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 05 17:31:10 ART 2019
+httpcomponents-core-4.3.3.pom>redhat-ea-repository=
+httpcomponents-core-4.3.3.pom>newsan-nexcus-repository=

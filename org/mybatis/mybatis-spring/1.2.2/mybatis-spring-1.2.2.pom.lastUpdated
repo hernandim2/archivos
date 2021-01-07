@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 28 18:40:43 ART 2020
+http\://maven.repository.redhat.com/ga/.error=
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1588110041648
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.mybatis\:mybatis-spring\:pom\:1.2.2 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+https\://repo.maven.apache.org/maven2/.lastUpdated=1588110043834
+http\://maven.repository.redhat.com/ga/.lastUpdated=1588110042881

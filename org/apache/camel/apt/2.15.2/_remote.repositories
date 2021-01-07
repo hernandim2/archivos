@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 04 11:07:22 ART 2019
+apt-2.15.2.jar>newsan-nexcus-repository=
+apt-2.15.2.pom>newsan-nexcus-repository=

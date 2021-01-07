@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 22 16:11:02 ART 2019
+org.apache.karaf.jaas.jasypt-2.4.0.redhat-620133.jar>newsan-nexcus-repository=
+org.apache.karaf.jaas.jasypt-2.4.0.redhat-620133.pom>newsan-nexcus-repository=

@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 18 16:37:12 ART 2020
+https\://repo1.maven.org/maven2/.lastUpdated=1597258110450
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1605728232124
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1605728231594
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1605728231333
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1597258110039
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.eclipse.aether\:aether-impl\:pom\:0.9.0.M2 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://maven.repository.redhat.com/ga/.lastUpdated=1605728231898
+https\://repo.maven.apache.org/maven2/.lastUpdated=1605728232296
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.eclipse.aether\:aether-impl\:pom\:0.9.0.M2 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://repository.jboss.org/nexus/content/groups/public/.error=

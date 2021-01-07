@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 05 17:33:43 ART 2019
+org.apache.felix.scr.annotations-1.9.8.jar>redhat-ea-repository=
+org.apache.felix.scr.annotations-1.9.8.pom>redhat-ea-repository=

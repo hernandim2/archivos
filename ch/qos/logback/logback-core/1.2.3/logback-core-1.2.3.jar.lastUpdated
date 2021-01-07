@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 05 22:59:10 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1609898349676
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1609898347415
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1609898347374
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1609898349014
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact ch.qos.logback\:logback-core\:jar\:1.2.3 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar
+https\://maven.repository.redhat.com/ga/.lastUpdated=1609898348287
+https\://repo.maven.apache.org/maven2/.lastUpdated=1609898350282
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact ch.qos.logback\:logback-core\:jar\:1.2.3 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar
+https\://repository.jboss.org/nexus/content/groups/public/.error=

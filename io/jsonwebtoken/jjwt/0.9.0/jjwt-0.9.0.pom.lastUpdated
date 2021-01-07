@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 11 14:56:52 ART 2019
+http\://maven.repository.redhat.com/ga/.error=
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1576087009976
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact io.jsonwebtoken\:jjwt\:pom\:0.9.0 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+https\://repo1.maven.org/maven2/.lastUpdated=1576087012050
+http\://maven.repository.redhat.com/ga/.lastUpdated=1576087011340

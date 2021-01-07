@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 16 12:16:21 ART 2020
+http\://maven.repository.redhat.com/ga/.error=
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1592320577958
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.felix\:org.apache.felix.utils\:jar\:sources\:1.8.0 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+https\://repo.maven.apache.org/maven2/.lastUpdated=1592320581078
+http\://maven.repository.redhat.com/ga/.lastUpdated=1592320579607

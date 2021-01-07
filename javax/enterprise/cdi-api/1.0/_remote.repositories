@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 18 16:37:36 ART 2020
+cdi-api-1.0.jar>redhat-ga-repository=
+cdi-api-1.0.pom>redhat-ga-repository=
+cdi-api-1.0.jar>redhat.ea=
+cdi-api-1.0.pom>redhat.ea=

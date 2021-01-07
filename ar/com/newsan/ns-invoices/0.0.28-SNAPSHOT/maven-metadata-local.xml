@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>ar.com.newsan</groupId>
+  <artifactId>ns-invoices</artifactId>
+  <version>0.0.28-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20190604140401</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.28-SNAPSHOT</value>
+        <updated>20190604140401</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.28-SNAPSHOT</value>
+        <updated>20190604140401</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

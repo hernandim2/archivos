@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 05 17:33:44 ART 2019
+httpclient-4.3.6.jar>newsan-nexcus-repository=
+httpclient-4.3.6.pom>newsan-nexcus-repository=
+httpclient-4.3.6.jar>redhat-ea-repository=
+httpclient-4.3.6.pom>redhat-ea-repository=

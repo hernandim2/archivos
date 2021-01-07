@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 28 18:40:58 ART 2020
+http\://maven.repository.redhat.com/ga/.error=
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1588110055809
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:12 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+https\://repo.maven.apache.org/maven2/.lastUpdated=1588110058327
+http\://maven.repository.redhat.com/ga/.lastUpdated=1588110057045

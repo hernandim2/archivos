@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 05 18:02:21 ART 2021
+jboss-logging-3.3.2.Final.pom>maven.central=
+jboss-logging-3.3.2.Final.jar>maven.central=
+jboss-logging-3.3.2.Final.jar>redhat-ga-repository=
+jboss-logging-3.3.2.Final.pom>redhat-ga-repository=
+jboss-logging-3.3.2.Final-sources.jar>jboss-public=

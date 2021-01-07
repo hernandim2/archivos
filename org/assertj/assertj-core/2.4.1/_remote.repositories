@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 05 18:02:37 ART 2021
+assertj-core-2.4.1.jar>maven.central=
+assertj-core-2.4.1.jar>central=
+assertj-core-2.4.1-sources.jar>central=
+assertj-core-2.4.1.pom>central=
+assertj-core-2.4.1.pom>maven.central=

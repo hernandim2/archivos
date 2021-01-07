@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 16 12:15:46 ART 2020
+http\://maven.repository.redhat.com/ga/.error=
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1592320543157
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.logging\:jboss-logging\:jar\:sources\:3.1.4.GA from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+https\://repo.maven.apache.org/maven2/.lastUpdated=1592320546236
+http\://maven.repository.redhat.com/ga/.lastUpdated=1592320544786

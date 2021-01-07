@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 18 16:37:36 ART 2020
+maven-dependency-tree-2.1.pom>redhat-ga-repository=
+maven-dependency-tree-2.1.pom>redhat.ea=
+maven-dependency-tree-2.1.jar>redhat-ga-repository=
+maven-dependency-tree-2.1.jar>redhat.ea=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 18 16:37:36 ART 2020
+maven-common-artifact-filters-1.4.jar>redhat-ga-repository=
+maven-common-artifact-filters-1.4.pom>redhat.ea=
+maven-common-artifact-filters-1.4.pom>redhat-ga-repository=
+maven-common-artifact-filters-1.4.jar>redhat.ea=

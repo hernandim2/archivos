@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 05 17:33:43 ART 2019
+aether-transport-wagon-1.0.2.v20150114.jar>redhat-ea-repository=
+aether-transport-wagon-1.0.2.v20150114.pom>redhat-ea-repository=

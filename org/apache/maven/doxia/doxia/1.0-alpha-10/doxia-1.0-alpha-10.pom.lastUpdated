@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 25 11:24:26 ART 2019
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.doxia\:doxia\:pom\:1.0-alpha-10 from/to redhat-ea-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+https\://repo.maven.apache.org/maven2/.lastUpdated=1564064666053
+@default-redhat-ea-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1564064665622

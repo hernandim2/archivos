@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 20 16:41:28 ART 2019
+org.apache.aries.blueprint.api-1.0.1.jar>central=
+org.apache.aries.blueprint.api-1.0.1.pom>central=

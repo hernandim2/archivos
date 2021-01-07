@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 05 22:59:10 ART 2021
+logback-json-classic-0.1.5.pom>maven.central=
+logback-json-classic-0.1.5.jar>maven.central=
+logback-json-classic-0.1.5.jar>central=
+logback-json-classic-0.1.5.pom>central=

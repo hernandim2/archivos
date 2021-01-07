@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 05 15:52:05 ART 2020
+plexus-archiver-1.0-alpha-12.jar>redhat-ea-repository=
+plexus-archiver-1.0-alpha-12.pom>redhat-ea-repository=

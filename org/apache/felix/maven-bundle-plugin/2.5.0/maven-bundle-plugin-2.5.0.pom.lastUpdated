@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 11 14:53:03 ART 2019
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.felix\:maven-bundle-plugin\:pom\:2.5.0 from/to redhat-ea-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+https\://repo.maven.apache.org/maven2/.lastUpdated=1576086783302
+@default-redhat-ea-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1576086780171
+https\://maven.repository.redhat.com/ga/.lastUpdated=1576086781365
+https\://maven.repository.redhat.com/ga/.error=

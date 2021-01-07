@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 16 12:12:50 ART 2020
+commons-beanutils-1.8.3.pom>newsan-nexcus-repository=
+commons-beanutils-1.8.3-sources.jar>central=
+commons-beanutils-1.8.3.jar>newsan-nexcus-repository=
+commons-beanutils-1.8.3.jar>redhat-ea-repository=

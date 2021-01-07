@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 09:51:07 ART 2020
+guava-18.0.jar>redhat-ga-repository=
+guava-18.0.pom>redhat-ga-repository=
+guava-18.0-sources.jar>central=

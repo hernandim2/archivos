@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 16 12:14:55 ART 2020
+xmlschema-core-2.2.1.pom>newsan-nexcus-repository=
+xmlschema-core-2.2.1-sources.jar>central=
+xmlschema-core-2.2.1.jar>newsan-nexcus-repository=

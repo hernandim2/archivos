@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 16 12:15:22 ART 2020
+geronimo-servlet_3.0_spec-1.0.jar>newsan-nexcus-repository=
+geronimo-servlet_3.0_spec-1.0-sources.jar>central=
+geronimo-servlet_3.0_spec-1.0.pom>newsan-nexcus-repository=
