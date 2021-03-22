@@ -1,5 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:03:54 ART 2021
-spring-webmvc-4.3.19.RELEASE.jar>jboss-public=
-spring-webmvc-4.3.19.RELEASE-sources.jar>jboss-public=
-spring-webmvc-4.3.19.RELEASE.pom>jboss-public=
+#Thu Dec 12 10:47:41 ART 2019
+spring-webmvc-4.3.19.RELEASE.jar>newsan-nexcus-repository=
+spring-webmvc-4.3.19.RELEASE.pom>newsan-nexcus-repository=

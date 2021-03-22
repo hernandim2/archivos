@@ -1,3 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:29:46 ART 2020
-spring-boot-parent-1.5.16.RELEASE.pom>jboss-public=
+#Thu Dec 12 10:47:46 ART 2019
+spring-boot-parent-1.5.16.RELEASE.pom>redhat-ea-repository=
+spring-boot-parent-1.5.16.RELEASE.pom>newsan-nexcus-repository=

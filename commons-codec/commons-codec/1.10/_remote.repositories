@@ -1,7 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:03:10 ART 2021
-commons-codec-1.10-sources.jar>central=
-commons-codec-1.10.pom>maven.central=
-commons-codec-1.10.jar>maven.central=
-commons-codec-1.10.pom>redhat-ga-repository=
-commons-codec-1.10.jar>redhat-ga-repository=
+#Tue May 21 16:05:57 ART 2019
+commons-codec-1.10.jar>central=
+commons-codec-1.10.pom>central=

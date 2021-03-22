@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 19 09:58:32 ART 2021
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1616158708861
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.cxf\:cxf-rt-databinding-jaxb\:pom\:3.2.7.fuse-sb2-750026-redhat-00001 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+http\://maven.repository.redhat.com/ga/.lastUpdated=1616158712839

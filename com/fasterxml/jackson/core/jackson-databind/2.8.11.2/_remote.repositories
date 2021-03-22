@@ -1,5 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:04:31 ART 2021
-jackson-databind-2.8.11.2.pom>central=
-jackson-databind-2.8.11.2.jar>central=
-jackson-databind-2.8.11.2-sources.jar>central=
+#Thu Dec 12 10:47:43 ART 2019
+jackson-databind-2.8.11.2.jar>newsan-nexcus-repository=
+jackson-databind-2.8.11.2.pom>newsan-nexcus-repository=

@@ -1,7 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 19 09:52:07 ART 2020
-jackson-module-jaxb-annotations-2.8.11.jar>maven.central=
-jackson-module-jaxb-annotations-2.8.11.jar>central=
+#Fri Nov 13 16:16:46 ART 2020
 jackson-module-jaxb-annotations-2.8.11.pom>central=
-jackson-module-jaxb-annotations-2.8.11-sources.jar>central=
+jackson-module-jaxb-annotations-2.8.11.jar>newsan-nexcus-repository=
 jackson-module-jaxb-annotations-2.8.11.pom>maven.central=

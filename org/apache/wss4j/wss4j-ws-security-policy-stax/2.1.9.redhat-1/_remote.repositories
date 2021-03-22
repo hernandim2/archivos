@@ -1,5 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:05:14 ART 2021
-wss4j-ws-security-policy-stax-2.1.9.redhat-1-sources.jar>redhat-ga-repository=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 10:06:50 ART 2020
 wss4j-ws-security-policy-stax-2.1.9.redhat-1.pom>redhat-ga-repository=
 wss4j-ws-security-policy-stax-2.1.9.redhat-1.jar>redhat-ga-repository=

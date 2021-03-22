@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Nov 16 09:30:32 ART 2020
+#Thu May 16 10:42:38 ART 2019
 jetty-util-6.1.25.jar>central=
 jetty-util-6.1.25.pom>central=
-jetty-util-6.1.25.pom>maven.central=
-jetty-util-6.1.25.jar>maven.central=

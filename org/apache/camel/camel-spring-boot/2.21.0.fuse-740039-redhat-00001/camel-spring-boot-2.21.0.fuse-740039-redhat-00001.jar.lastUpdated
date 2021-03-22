@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:46:23 ART 2020
-https\://repo1.maven.org/maven2/.error=
-https\://maven.repository.redhat.com/ga/.lastUpdated=1597257983663
-https\://repo1.maven.org/maven2/.lastUpdated=1597257896994
+#Mon Jan 06 17:20:24 ART 2020
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1578341985754
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.camel\:camel-spring-boot\:jar\:2.21.0.fuse-740039-redhat-00001 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+http\://maven.repository.redhat.com/ga/.lastUpdated=1578342024035

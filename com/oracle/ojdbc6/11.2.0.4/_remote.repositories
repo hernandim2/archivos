@@ -1,4 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:46:33 ART 2020
-ojdbc6-11.2.0.4.pom>nexus-new-san=
-ojdbc6-11.2.0.4.jar>nexus-new-san=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 04 10:57:14 ART 2019
+ojdbc6-11.2.0.4.pom>newsan-nexcus-repository=
+ojdbc6-11.2.0.4.jar>newsan-nexcus-repository=

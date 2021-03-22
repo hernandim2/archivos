@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 19 10:05:17 ART 2021
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1616159114725
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.keycloak\:keycloak-tomcat8-adapter\:pom\:4.8.3.Final-redhat-00001 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+http\://maven.repository.redhat.com/ga/.lastUpdated=1616159117652

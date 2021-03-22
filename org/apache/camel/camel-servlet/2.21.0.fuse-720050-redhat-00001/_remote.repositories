@@ -1,5 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 19 09:52:06 ART 2020
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 10:06:49 ART 2020
 camel-servlet-2.21.0.fuse-720050-redhat-00001.pom>redhat-ga-repository=
 camel-servlet-2.21.0.fuse-720050-redhat-00001.jar>redhat-ga-repository=
-camel-servlet-2.21.0.fuse-720050-redhat-00001-sources.jar>redhat-ga-repository=

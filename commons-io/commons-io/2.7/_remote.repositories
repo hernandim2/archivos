@@ -1,4 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:44:57 ART 2020
-commons-io-2.7.pom>maven.central=
-commons-io-2.7.jar>maven.central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 22 11:27:31 ART 2020
+commons-io-2.7.jar>newsan-nexcus-repository=
+commons-io-2.7.pom>newsan-nexcus-repository=

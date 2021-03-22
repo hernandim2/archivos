@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:44:57 ART 2020
-commons-beanutils-1.9.3.pom>maven.central=
-commons-beanutils-1.9.3.jar>maven.central=
+#Thu Dec 12 10:47:43 ART 2019
+commons-beanutils-1.9.3.jar>newsan-nexcus-repository=
+commons-beanutils-1.9.3.pom>newsan-nexcus-repository=

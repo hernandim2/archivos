@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:37:36 ART 2020
-wagon-provider-api-1.0-beta-6.pom>redhat.ea=
-wagon-provider-api-1.0-beta-6.jar>redhat.ea=
-wagon-provider-api-1.0-beta-6.jar>redhat-ga-repository=
-wagon-provider-api-1.0-beta-6.pom>redhat-ga-repository=
+#Tue May 21 16:08:04 ART 2019
+wagon-provider-api-1.0-beta-6.pom>central=
+wagon-provider-api-1.0-beta-6.jar>central=

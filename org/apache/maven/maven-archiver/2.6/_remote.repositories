@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:37:36 ART 2020
-maven-archiver-2.6.pom>redhat.ea=
-maven-archiver-2.6.jar>redhat-ga-repository=
-maven-archiver-2.6.pom>redhat-ga-repository=
-maven-archiver-2.6.jar>redhat.ea=
+#Thu May 16 10:43:10 ART 2019
+maven-archiver-2.6.jar>central=
+maven-archiver-2.6.pom>central=

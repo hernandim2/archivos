@@ -1,7 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 19 09:51:42 ART 2020
-validation-api-1.1.0.Final-sources.jar>jboss-public=
-validation-api-1.1.0.Final.pom>maven.central=
-validation-api-1.1.0.Final.pom>redhat-ga-repository=
-validation-api-1.1.0.Final.jar>redhat-ga-repository=
-validation-api-1.1.0.Final.jar>maven.central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 16 12:15:39 ART 2020
+validation-api-1.1.0.Final-sources.jar>central=
+validation-api-1.1.0.Final.jar>central=
+validation-api-1.1.0.Final.pom>central=

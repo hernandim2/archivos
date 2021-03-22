@@ -1,5 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:03:44 ART 2021
-javax.ws.rs-api-2.0.1.redhat-1-sources.jar>redhat-ga-repository=
-javax.ws.rs-api-2.0.1.redhat-1.pom>redhat-ga-repository=
-javax.ws.rs-api-2.0.1.redhat-1.jar>redhat-ga-repository=
+#Thu Dec 12 10:47:42 ART 2019
+javax.ws.rs-api-2.0.1.redhat-1.pom>newsan-nexcus-repository=
+javax.ws.rs-api-2.0.1.redhat-1.jar>newsan-nexcus-repository=

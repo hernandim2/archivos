@@ -1,5 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:03:47 ART 2021
-tomcat-embed-websocket-8.0.36.redhat-30.pom>redhat-ga-repository=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 10:06:49 ART 2020
 tomcat-embed-websocket-8.0.36.redhat-30.jar>redhat-ga-repository=
-tomcat-embed-websocket-8.0.36.redhat-30-sources.jar>redhat-ga-repository=
+tomcat-embed-websocket-8.0.36.redhat-30.pom>redhat-ga-repository=

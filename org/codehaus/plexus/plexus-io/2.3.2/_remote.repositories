@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:37:36 ART 2020
-plexus-io-2.3.2.pom>redhat-ga-repository=
-plexus-io-2.3.2.pom>redhat.ea=
-plexus-io-2.3.2.jar>redhat-ga-repository=
-plexus-io-2.3.2.jar>redhat.ea=
+#Tue May 21 15:33:10 ART 2019
+plexus-io-2.3.2.jar>central=
+plexus-io-2.3.2.pom>central=

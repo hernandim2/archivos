@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+     Copyright 2005-2017 Red Hat, Inc.
+
+     Red Hat licenses this file to you under the Apache License, version
+     2.0 (the "License"); you may not use this file except in compliance
+     with the License.  You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+     implied.  See the License for the specific language governing
+     permissions and limitations under the License.
+
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.jboss.redhat-fuse</groupId>
+    <artifactId>redhat-fuse</artifactId>
+    <version>7.5.0.fuse-sb2-750029-redhat-00001</version>
+    <packaging>pom</packaging>
+
+    <name>Red Hat Fuse :: ${project.artifactId}</name>
+    <description>Red Hat Fuse is an open source integration platform with capabilities based on Apache Camel, Apache CXF running on multiple platfroms like Apache Karaf, JBoss EAP, or Spring Boot</description>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+
+        <!-- Build properties (overridable in profiles) -->
+        <enforcer.pluginVersions.banSnapshots>false</enforcer.pluginVersions.banSnapshots>
+
+        <version.camel>2.23.2.fuse-750029-redhat-00001</version.camel>
+        <version.camel.extra>2.23.2.fuse-sb2-750029-redhat-00001</version.camel.extra>
+        <version.cxf>3.2.7.fuse-sb2-750026-redhat-00001</version.cxf>
+
+        <version.fabric8>3.0.11.fuse-sb2-750011-redhat-00001</version.fabric8>
+        <version.fabric8.maven.plugin>3.5.42.fuse-750010-redhat-00001</version.fabric8.maven.plugin>
+        <version.fusesource.camel.sap>7.5.0.fuse-sb2-750027-redhat-00001</version.fusesource.camel.sap>
+
+        <version.hawtio>2.0.0.fuse-sb2-750018-redhat-00001</version.hawtio>
+
+        <version.kubernetes.model>4.1.0</version.kubernetes.model>
+        <version.kubernetes.client>4.1.0</version.kubernetes.client>
+
+        <version.docker.maven.plugin>0.23.0.fuse-750008-redhat-00001</version.docker.maven.plugin>
+
+        <version.narayana-spring-boot>2.1.1.fuse-sb2-750025-redhat-00001</version.narayana-spring-boot>
+
+        <rhoar.version>2.1.6.SP3-redhat-00001</rhoar.version>
+
+        <!-- Overridden from snowdrop Spring Boot BOM-->
+        <hibernate.version>5.3.10.Final-redhat-00001</hibernate.version>
+        <hibernate-validator.version>5.3.5.Final-redhat-2</hibernate-validator.version>
+        <undertow.version>2.0.23.Final-redhat-00001</undertow.version>
+
+        <activemq.version>5.11.0.redhat-630416</activemq.version>
+        <artemis.version>2.9.0.redhat-00005</artemis.version>
+
+        <version.kafka>2.3.0.redhat-00003</version.kafka>
+        <version.kafka.upstream>2.3.0</version.kafka.upstream>
+
+        <version.commons-codec>1.12</version.commons-codec>
+        <version.commons-pool>1.6.0.redhat-10</version.commons-pool>
+        <version.netty>4.1.39.Final-redhat-00001</version.netty>
+
+        <version.org.apache.commons.dbcp2>2.1.1</version.org.apache.commons.dbcp2>
+        <version.org.apache.commons.lang3>3.9.0.redhat-00001</version.org.apache.commons.lang3>
+        <version.org.apache.commons.pool2>2.6.2.redhat-00001</version.org.apache.commons.pool2>
+
+        <version.org.apache.httpcomponents.httpasyncclient>4.1.3.redhat-2</version.org.apache.httpcomponents.httpasyncclient>
+        <version.org.apache.httpcomponents.httpclient>4.5.5</version.org.apache.httpcomponents.httpclient>
+        <version.org.apache.httpcomponents.httpcore>4.4.9</version.org.apache.httpcomponents.httpcore>
+
+        <version.org.eclipse.jetty>9.4.20.v20190813</version.org.eclipse.jetty>
+
+        <version.cxf.xjc-utils>3.2.4.fuse-750013-redhat-00001</version.cxf.xjc-utils>
+        <!-- END Overridden from snowdrop Spring Boot BOM-->
+
+        <!--
+          CONVENTIONS:
+          - A version property must be specified in the format "version.{groupId}", optionally with a suffix to make it unique.
+          - Version properties must be sorted alphabetically (other form of sorting were found to be unclear and ambiguous).
+          - Maven plugins - whatever that improves readability
+        -->
+
+    </properties>
+
+    <modules>
+        <module>fuse-tools</module>
+        <module>fuse-springboot</module>
+        <module>fuse-maven-plugins</module>
+    </modules>
+
+    <url>https://developers.redhat.com/products/fuse/overview</url>
+
+    <scm>
+        <connection>scm:git:git@github.com:jboss-fuse/redhat-fuse.git</connection>
+        <developerConnection>scm:git:git@github.com:jboss-fuse/redhat-fuse.git</developerConnection>
+        <tag>master</tag>
+    </scm>
+
+    <organization>
+        <name>Red Hat</name>
+        <url>http://redhat.com</url>
+    </organization>
+
+    <developers>
+        <developer>
+            <id>fuseteam</id>
+            <name>Red Hat Fuse Development Team</name>
+            <organization>Red Hat</organization>
+            <organizationUrl>http://jboss.org/</organizationUrl>
+        </developer>
+    </developers>
+
+    <inceptionYear>2017</inceptionYear>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <!-- These are place holder dependency management entries -->
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.apache.camel</groupId>
+                <artifactId>camel</artifactId>
+                <version>${version.camel}</version>
+                <type>pom</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.fusesource</groupId>
+                <artifactId>camel-sap-parent</artifactId>
+                <version>${version.fusesource.camel.sap}</version>
+                <type>pom</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.cxf.xjc-utils</groupId>
+                <artifactId>xjc-utils</artifactId>
+                <version>${version.cxf.xjc-utils}</version>
+                <type>pom</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.cxf</groupId>
+                <artifactId>cxf-parent</artifactId>
+                <version>${version.cxf}</version>
+                <type>pom</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>io.hawt</groupId>
+                <artifactId>project</artifactId>
+                <version>${version.hawtio}</version>
+                <type>pom</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.apache-extras.camel-extra</groupId>
+                <artifactId>camel-parent</artifactId>
+                <version>${version.camel.extra}</version>
+                <type>pom</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>io.fabric8</groupId>
+                <artifactId>kubernetes-model-generator</artifactId>
+                <version>${version.kubernetes.model}</version>
+                <type>pom</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>io.fabric8</groupId>
+                <artifactId>kubernetes-client-project</artifactId>
+                <version>${version.kubernetes.client}</version>
+                <type>pom</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>io.fabric8</groupId>
+                <artifactId>docker-maven-plugin</artifactId>
+                <version>${version.docker.maven.plugin}</version>
+                <type>pom</type>
+                <scope>provided</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+    <build>
+    <pluginManagement></pluginManagement>
+    <plugins>
+      <plugin>
+        <groupId>org.commonjava.maven.plugins</groupId>
+        <artifactId>project-sources-maven-plugin</artifactId>
+        <version>1.0</version>
+        <executions>
+          <execution>
+            <id>project-sources-archive</id>
+            <phase>initialize</phase>
+            <goals>
+              <goal>archive</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+</project>
+<!--
+Modified by POM Manipulation Extension for Maven 3.8 ( SHA: f4d25314 ) 
+-->
+

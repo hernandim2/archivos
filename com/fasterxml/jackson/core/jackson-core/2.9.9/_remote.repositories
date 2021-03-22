@@ -1,3 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Nov 16 09:29:06 ART 2020
-jackson-core-2.9.9.pom>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 22 00:09:51 ART 2021
+jackson-core-2.9.9.pom>redhat-ga-repository=
+jackson-core-2.9.9.jar>central=

@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:46:33 ART 2020
-org.restlet-2.3.12.pom>nexus-new-san=
-org.restlet-2.3.12.jar>nexus-new-san=
+#Thu Dec 12 10:47:43 ART 2019
+org.restlet-2.3.12.pom>maven-restlet=
+org.restlet-2.3.12.jar>maven-restlet=
+org.restlet-2.3.12.jar>newsan-nexcus-repository=
+org.restlet-2.3.12.pom>newsan-nexcus-repository=

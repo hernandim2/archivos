@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:37:36 ART 2020
-maven-compat-3.0.jar>redhat-ga-repository=
-maven-compat-3.0.pom>redhat.ea=
-maven-compat-3.0.pom>redhat-ga-repository=
-maven-compat-3.0.jar>redhat.ea=
+#Tue May 21 16:05:57 ART 2019
+maven-compat-3.0.jar>central=
+maven-compat-3.0.pom>central=

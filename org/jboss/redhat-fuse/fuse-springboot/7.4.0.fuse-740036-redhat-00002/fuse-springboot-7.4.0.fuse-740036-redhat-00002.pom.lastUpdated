@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:37:58 ART 2020
-https\://repo1.maven.org/maven2/.error=
-https\://maven.repository.redhat.com/ga/.lastUpdated=1597257478388
-https\://repo1.maven.org/maven2/.lastUpdated=1597257477537
+#Wed Dec 11 14:53:43 ART 2019
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1576086822566
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.redhat-fuse\:fuse-springboot\:pom\:7.4.0.fuse-740036-redhat-00002 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+http\://maven.repository.redhat.com/ga/.lastUpdated=1576086823867

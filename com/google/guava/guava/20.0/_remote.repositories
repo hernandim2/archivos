@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:44:56 ART 2020
-guava-20.0.pom>maven.central=
-guava-20.0.jar>maven.central=
+#Tue May 21 16:04:18 ART 2019
+guava-20.0.pom>central=
+guava-20.0.jar>central=

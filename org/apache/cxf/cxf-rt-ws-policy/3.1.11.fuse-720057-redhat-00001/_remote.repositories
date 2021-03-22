@@ -1,5 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:03:43 ART 2021
-cxf-rt-ws-policy-3.1.11.fuse-720057-redhat-00001-sources.jar>redhat-ga-repository=
-cxf-rt-ws-policy-3.1.11.fuse-720057-redhat-00001.pom>redhat-ga-repository=
-cxf-rt-ws-policy-3.1.11.fuse-720057-redhat-00001.jar>redhat-ga-repository=
+#Thu Dec 12 10:47:42 ART 2019
+cxf-rt-ws-policy-3.1.11.fuse-720057-redhat-00001.jar>newsan-nexcus-repository=
+cxf-rt-ws-policy-3.1.11.fuse-720057-redhat-00001.pom>newsan-nexcus-repository=

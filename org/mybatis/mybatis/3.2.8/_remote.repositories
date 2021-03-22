@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:44:57 ART 2020
-mybatis-3.2.8.jar>maven.central=
-mybatis-3.2.8.pom>maven.central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 16 12:15:52 ART 2020
+mybatis-3.2.8-sources.jar>central=
+mybatis-3.2.8.jar>newsan-nexcus-repository=
+mybatis-3.2.8.pom>newsan-nexcus-repository=

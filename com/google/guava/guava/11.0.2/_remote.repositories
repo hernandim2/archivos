@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:37:39 ART 2020
-guava-11.0.2.jar>central=
-guava-11.0.2.pom>central=
-guava-11.0.2.pom>maven.central=
-guava-11.0.2.jar>maven.central=
+#Thu Dec 12 10:47:55 ART 2019
+guava-11.0.2.jar>redhat-ea-repository=
+guava-11.0.2.pom>redhat-ea-repository=

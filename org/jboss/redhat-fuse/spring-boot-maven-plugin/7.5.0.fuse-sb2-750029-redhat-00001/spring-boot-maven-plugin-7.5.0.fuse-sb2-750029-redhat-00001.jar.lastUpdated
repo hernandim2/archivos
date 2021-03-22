@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 19 10:12:53 ART 2021
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.jboss.redhat-fuse\:spring-boot-maven-plugin\:jar\:7.5.0.fuse-sb2-750029-redhat-00001 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.redhat-fuse\:spring-boot-maven-plugin\:jar\:7.5.0.fuse-sb2-750029-redhat-00001 from/to redhat-ea-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.redhat-fuse\:spring-boot-maven-plugin\:jar\:7.5.0.fuse-sb2-750029-redhat-00001 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+@default-redhat-ea-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1616159571779
+https\://maven.repository.redhat.com/ga/.lastUpdated=1616159573577
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1616159571847
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1616159571814

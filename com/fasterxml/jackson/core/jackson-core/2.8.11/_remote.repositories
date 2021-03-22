@@ -1,7 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:02:52 ART 2021
-jackson-core-2.8.11.jar>maven.central=
-jackson-core-2.8.11.jar>central=
-jackson-core-2.8.11-sources.jar>central=
+#Fri Nov 13 16:10:57 ART 2020
 jackson-core-2.8.11.pom>central=
+jackson-core-2.8.11.jar>newsan-nexcus-repository=
 jackson-core-2.8.11.pom>maven.central=

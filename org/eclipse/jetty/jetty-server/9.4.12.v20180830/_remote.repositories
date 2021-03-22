@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:44:57 ART 2020
-jetty-server-9.4.12.v20180830.jar>maven.central=
-jetty-server-9.4.12.v20180830.pom>maven.central=
+#Wed May 22 15:16:42 ART 2019
+jetty-server-9.4.12.v20180830.jar>central=
+jetty-server-9.4.12.v20180830.pom>central=
+jetty-server-9.4.12.v20180830-sources.jar>central=

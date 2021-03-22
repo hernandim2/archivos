@@ -1,8 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Apr 28 18:40:39 ART 2020
+#Fri Jun 07 12:04:54 ART 2019
 http\://maven.repository.redhat.com/ga/.error=
-@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1588110037164
-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.camel\:camel-mybatis\:pom\:2.15.1.redhat-620133 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
-https\://repo.maven.apache.org/maven2/.lastUpdated=1588110039404
+https\://repo.maven.apache.org/maven2/.lastUpdated=1559919894097
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1559656593880
 https\://repo.maven.apache.org/maven2/.error=
-http\://maven.repository.redhat.com/ga/.lastUpdated=1588110038411
+http\://maven.repository.redhat.com/ga/.lastUpdated=1559656289813

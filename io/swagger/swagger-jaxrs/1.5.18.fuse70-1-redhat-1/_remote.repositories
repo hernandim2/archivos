@@ -1,7 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:02:11 ART 2021
-swagger-jaxrs-1.5.18.fuse70-1-redhat-1.jar>redhat.ga=
-swagger-jaxrs-1.5.18.fuse70-1-redhat-1.pom>redhat.ga=
-swagger-jaxrs-1.5.18.fuse70-1-redhat-1-sources.jar>redhat-ga-repository=
-swagger-jaxrs-1.5.18.fuse70-1-redhat-1.pom>redhat-ga-repository=
-swagger-jaxrs-1.5.18.fuse70-1-redhat-1.jar>redhat-ga-repository=
+#Thu Dec 12 10:47:42 ART 2019
+swagger-jaxrs-1.5.18.fuse70-1-redhat-1.jar>newsan-nexcus-repository=
+swagger-jaxrs-1.5.18.fuse70-1-redhat-1.pom>newsan-nexcus-repository=

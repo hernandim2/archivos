@@ -1,7 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 19 09:51:46 ART 2020
-stax2-api-3.1.4.jar>redhat-ga-repository=
+#Tue May 21 16:24:03 ART 2019
 stax2-api-3.1.4-sources.jar>central=
-stax2-api-3.1.4.pom>maven.central=
-stax2-api-3.1.4.jar>maven.central=
-stax2-api-3.1.4.pom>redhat-ga-repository=
+stax2-api-3.1.4.jar>central=
+stax2-api-3.1.4.pom>central=

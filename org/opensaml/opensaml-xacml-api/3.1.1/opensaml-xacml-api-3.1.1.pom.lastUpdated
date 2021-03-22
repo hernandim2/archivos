@@ -1,13 +1,15 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:33:32 ART 2020
+#Thu Nov 19 10:00:34 ART 2020
 https\://maven.repository.redhat.com/earlyaccess/all/.error=
-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1605728011780
-@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1605728010245
-@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1605728010239
-https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1605728011152
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1605790831794
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1605790833853
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.opensaml\:opensaml-xacml-api\:pom\:3.1.1 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1605790833126
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1605790833072
+http\://maven.repository.redhat.com/ga/.lastUpdated=1605790833001
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1605790833027
 https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.opensaml\:opensaml-xacml-api\:pom\:3.1.1 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
-https\://maven.repository.redhat.com/ga/.lastUpdated=1605728010702
-https\://repo.maven.apache.org/maven2/.lastUpdated=1605728012169
-https\://maven.repository.redhat.com/ga/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1605790834839
 https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.opensaml\:opensaml-xacml-api\:pom\:3.1.1 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+http\://maven.repository.redhat.com/ga/.error=
 https\://repository.jboss.org/nexus/content/groups/public/.error=

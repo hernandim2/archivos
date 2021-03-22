@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:44:57 ART 2020
-apache-mime4j-core-0.7.2.pom>maven.central=
-apache-mime4j-core-0.7.2.jar>maven.central=
+#Tue May 21 15:40:42 ART 2019
+apache-mime4j-core-0.7.2.jar>central=
+apache-mime4j-core-0.7.2.pom>central=

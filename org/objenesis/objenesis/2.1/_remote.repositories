@@ -1,7 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:03:12 ART 2021
-objenesis-2.1.pom>central=
-objenesis-2.1.jar>central=
-objenesis-2.1.pom>maven.central=
-objenesis-2.1-sources.jar>central=
-objenesis-2.1.jar>maven.central=
+#Thu Dec 12 10:47:43 ART 2019
+objenesis-2.1.pom>newsan-nexcus-repository=
+objenesis-2.1.jar>newsan-nexcus-repository=

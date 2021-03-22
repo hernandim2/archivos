@@ -1,13 +1,15 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:33:26 ART 2020
+#Thu Nov 19 10:00:26 ART 2020
 https\://maven.repository.redhat.com/earlyaccess/all/.error=
-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1605728005620
-@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1605728004046
-@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1605728004040
-https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1605728004995
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1605790823213
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1605790825405
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.opensaml\:opensaml-security-impl\:pom\:3.1.1 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1605790823819
+http\://maven.repository.redhat.com/ga/.lastUpdated=1605790824594
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1605790823791
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1605790824493
 https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.opensaml\:opensaml-security-impl\:pom\:3.1.1 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
-https\://maven.repository.redhat.com/ga/.lastUpdated=1605728004523
-https\://repo.maven.apache.org/maven2/.lastUpdated=1605728006010
-https\://maven.repository.redhat.com/ga/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1605790826354
 https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.opensaml\:opensaml-security-impl\:pom\:3.1.1 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+http\://maven.repository.redhat.com/ga/.error=
 https\://repository.jboss.org/nexus/content/groups/public/.error=

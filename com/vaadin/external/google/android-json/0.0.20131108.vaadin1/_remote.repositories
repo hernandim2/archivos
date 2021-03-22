@@ -1,7 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 19 09:50:58 ART 2020
-android-json-0.0.20131108.vaadin1.pom>maven.central=
-android-json-0.0.20131108.vaadin1.jar>maven.central=
+#Tue May 21 15:39:24 ART 2019
 android-json-0.0.20131108.vaadin1.jar>central=
 android-json-0.0.20131108.vaadin1.pom>central=
-android-json-0.0.20131108.vaadin1-sources.jar>central=

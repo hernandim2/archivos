@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:37:36 ART 2020
-jdom-1.1.pom>redhat.ea=
-jdom-1.1.jar>redhat.ea=
-jdom-1.1.pom>redhat-ga-repository=
-jdom-1.1.jar>redhat-ga-repository=
+#Tue May 21 15:33:10 ART 2019
+jdom-1.1.jar>central=
+jdom-1.1.pom>central=

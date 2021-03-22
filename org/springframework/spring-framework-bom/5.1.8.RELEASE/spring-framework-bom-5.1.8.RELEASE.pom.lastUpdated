@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 19 09:49:57 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1616158195067
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1616158197548
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:5.1.8.RELEASE from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1616158195803
+http\://maven.repository.redhat.com/ga/.lastUpdated=1616158195707
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1616158195779
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1616158196191
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:5.1.8.RELEASE from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:5.1.8.RELEASE from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+http\://maven.repository.redhat.com/ga/.error=

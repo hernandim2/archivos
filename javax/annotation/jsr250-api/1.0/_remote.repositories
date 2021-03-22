@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:37:36 ART 2020
-jsr250-api-1.0.jar>redhat.ea=
-jsr250-api-1.0.pom>redhat.ea=
-jsr250-api-1.0.jar>redhat-ga-repository=
-jsr250-api-1.0.pom>redhat-ga-repository=
+#Mon May 20 16:41:28 ART 2019
+jsr250-api-1.0.jar>central=
+jsr250-api-1.0.pom>central=

@@ -1,5 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:04:42 ART 2021
-jsr311-api-1.1.1.pom>redhat-ga-repository=
-jsr311-api-1.1.1.jar>redhat-ga-repository=
-jsr311-api-1.1.1-sources.jar>central=
+#Tue May 21 15:41:05 ART 2019
+jsr311-api-1.1.1.jar>central=
+jsr311-api-1.1.1.pom>central=

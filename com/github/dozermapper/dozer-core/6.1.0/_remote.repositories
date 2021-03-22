@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:44:57 ART 2020
-dozer-core-6.1.0.pom>maven.central=
-dozer-core-6.1.0.jar>maven.central=
+#Thu Dec 12 10:47:42 ART 2019
+dozer-core-6.1.0.jar>newsan-nexcus-repository=
+dozer-core-6.1.0.pom>newsan-nexcus-repository=

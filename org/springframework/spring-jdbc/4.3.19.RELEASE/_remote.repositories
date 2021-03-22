@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:44:57 ART 2020
-spring-jdbc-4.3.19.RELEASE.pom>maven.central=
-spring-jdbc-4.3.19.RELEASE.jar>maven.central=
+#Thu Dec 12 10:47:42 ART 2019
+spring-jdbc-4.3.19.RELEASE.pom>newsan-nexcus-repository=
+spring-jdbc-4.3.19.RELEASE.jar>newsan-nexcus-repository=

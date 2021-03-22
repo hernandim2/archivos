@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:36:41 ART 2020
-jasypt-1.9.2.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 16 12:16:07 ART 2020
+jasypt-1.9.2-sources.jar>central=
 jasypt-1.9.2.pom>central=
+jasypt-1.9.2.jar>central=

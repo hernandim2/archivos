@@ -1,7 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:04:35 ART 2021
-xml-resolver-1.2.0.redhat-12.pom>redhat.ga=
-xml-resolver-1.2.0.redhat-12-sources.jar>redhat-ga-repository=
+#Thu Dec 12 10:47:42 ART 2019
+xml-resolver-1.2.0.redhat-12.jar>newsan-nexcus-repository=
 xml-resolver-1.2.0.redhat-12.pom>redhat-ga-repository=
-xml-resolver-1.2.0.redhat-12.jar>redhat-ga-repository=
-xml-resolver-1.2.0.redhat-12.jar>redhat.ga=

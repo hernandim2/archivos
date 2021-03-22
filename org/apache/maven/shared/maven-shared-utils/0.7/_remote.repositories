@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:37:36 ART 2020
-maven-shared-utils-0.7.pom>redhat-ga-repository=
-maven-shared-utils-0.7.jar>redhat.ea=
-maven-shared-utils-0.7.jar>redhat-ga-repository=
-maven-shared-utils-0.7.pom>redhat.ea=
+#Thu May 16 10:43:10 ART 2019
+maven-shared-utils-0.7.jar>central=
+maven-shared-utils-0.7.pom>central=

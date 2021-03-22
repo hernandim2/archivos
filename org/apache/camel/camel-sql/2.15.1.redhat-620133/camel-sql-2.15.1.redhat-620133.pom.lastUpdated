@@ -1,8 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Apr 28 18:40:41 ART 2020
+#Fri Jun 07 12:04:54 ART 2019
 http\://maven.repository.redhat.com/ga/.error=
-@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1588110039468
-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.camel\:camel-sql\:pom\:2.15.1.redhat-620133 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
-https\://repo.maven.apache.org/maven2/.lastUpdated=1588110041636
+https\://repo.maven.apache.org/maven2/.lastUpdated=1559919894317
+http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1559656596604
 https\://repo.maven.apache.org/maven2/.error=
-http\://maven.repository.redhat.com/ga/.lastUpdated=1588110040899
+http\://maven.repository.redhat.com/ga/.lastUpdated=1559656291525

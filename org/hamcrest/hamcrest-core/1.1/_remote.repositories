@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Nov 18 16:35:19 ART 2020
-hamcrest-core-1.1.pom>redhat-ea-repository=
-hamcrest-core-1.1.jar>redhat-ea-repository=
-hamcrest-core-1.1.jar>maven.central=
-hamcrest-core-1.1.pom>maven.central=
+#Thu Dec 12 10:47:43 ART 2019
+hamcrest-core-1.1.jar>newsan-nexcus-repository=
+hamcrest-core-1.1.pom>newsan-nexcus-repository=
