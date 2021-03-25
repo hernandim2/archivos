@@ -1,5 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 06 17:20:49 ART 2020
-https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1578342049929
-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.redhat-fuse\:fuse-maven-plugins\:pom\:7.4.0.fuse-740036-redhat-00002 from/to redhat-ea-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
-@default-redhat-ea-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1578342049308

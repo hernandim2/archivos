@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Jun 16 12:14:20 ART 2020
-http\://maven.repository.redhat.com/ga/.error=
-@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1592320456579
-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:sources\:3.2.12.RELEASE from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
-https\://repo.maven.apache.org/maven2/.lastUpdated=1592320460856
-http\://maven.repository.redhat.com/ga/.lastUpdated=1592320458307

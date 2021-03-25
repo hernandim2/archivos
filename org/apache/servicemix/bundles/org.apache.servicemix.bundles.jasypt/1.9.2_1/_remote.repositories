@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Jun 16 12:16:24 ART 2020
-org.apache.servicemix.bundles.jasypt-1.9.2_1.pom>newsan-nexcus-repository=
-org.apache.servicemix.bundles.jasypt-1.9.2_1-sources.jar>central=
-org.apache.servicemix.bundles.jasypt-1.9.2_1.jar>newsan-nexcus-repository=

@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Jun 16 12:14:55 ART 2020
-http\://maven.repository.redhat.com/ga/.error=
-@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1592320492341
-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.ws.xmlschema\:xmlschema-core\:jar\:sources\:2.2.1 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
-https\://repo.maven.apache.org/maven2/.lastUpdated=1592320495775
-http\://maven.repository.redhat.com/ga/.lastUpdated=1592320494129

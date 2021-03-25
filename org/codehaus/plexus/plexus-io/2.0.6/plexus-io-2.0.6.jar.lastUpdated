@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Jul 25 11:24:32 ART 2019
-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.plexus\:plexus-io\:jar\:2.0.6 from/to redhat-ea-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
-https\://repo.maven.apache.org/maven2/.lastUpdated=1564064672166
-@default-redhat-ea-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1564064670581
