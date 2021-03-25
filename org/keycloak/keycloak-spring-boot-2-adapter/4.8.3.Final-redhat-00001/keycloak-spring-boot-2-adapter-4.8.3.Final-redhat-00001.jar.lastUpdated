@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Feb 01 15:44:44 ART 2021
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.keycloak\:keycloak-spring-boot-2-adapter\:jar\:4.8.3.Final-redhat-00001 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/org/keycloak/keycloak-spring-boot-2-adapter/4.8.3.Final-redhat-00001/keycloak-spring-boot-2-adapter-4.8.3.Final-redhat-00001.jar
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.keycloak\:keycloak-spring-boot-2-adapter\:jar\:4.8.3.Final-redhat-00001 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/org/keycloak/keycloak-spring-boot-2-adapter/4.8.3.Final-redhat-00001/keycloak-spring-boot-2-adapter-4.8.3.Final-redhat-00001.jar
+https\://maven.repository.redhat.com/ga/.lastUpdated=1612205084862
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1612205072746
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1612205072591
