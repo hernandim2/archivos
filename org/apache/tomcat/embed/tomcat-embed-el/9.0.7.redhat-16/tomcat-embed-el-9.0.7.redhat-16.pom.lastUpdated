@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 17 12:40:40 ART 2021
-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-el\:pom\:9.0.7.redhat-16 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/org/apache/tomcat/embed/tomcat-embed-el/9.0.7.redhat-16/tomcat-embed-el-9.0.7.redhat-16.pom
-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-el\:pom\:9.0.7.redhat-16 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/org/apache/tomcat/embed/tomcat-embed-el/9.0.7.redhat-16/tomcat-embed-el-9.0.7.redhat-16.pom
-https\://maven.repository.redhat.com/ga/.lastUpdated=1613576440270
-@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1613576440128
-@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1613576440113

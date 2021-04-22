@@ -1,7 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 05 18:03:30 ART 2021
-javassist-3.21.0-GA.pom>maven.central=
-javassist-3.21.0-GA.pom>redhat-ea-repository=
-javassist-3.21.0-GA.jar>maven.central=
-javassist-3.21.0-GA.jar>redhat-ea-repository=
-javassist-3.21.0-GA-sources.jar>central=

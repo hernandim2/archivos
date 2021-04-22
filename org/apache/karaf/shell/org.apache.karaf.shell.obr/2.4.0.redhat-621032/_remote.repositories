@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Dec 05 17:33:44 ART 2019
-org.apache.karaf.shell.obr-2.4.0.redhat-621032.jar>redhat-ea-repository=
-org.apache.karaf.shell.obr-2.4.0.redhat-621032.pom>redhat-ea-repository=

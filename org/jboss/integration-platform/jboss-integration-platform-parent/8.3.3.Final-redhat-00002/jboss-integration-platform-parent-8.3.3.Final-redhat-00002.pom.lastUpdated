@@ -1,9 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 17 12:39:39 ART 2021
-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.jboss.integration-platform\:jboss-integration-platform-parent\:pom\:8.3.3.Final-redhat-00002 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/org/jboss/integration-platform/jboss-integration-platform-parent/8.3.3.Final-redhat-00002/jboss-integration-platform-parent-8.3.3.Final-redhat-00002.pom
-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.integration-platform\:jboss-integration-platform-parent\:pom\:8.3.3.Final-redhat-00002 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/org/jboss/integration-platform/jboss-integration-platform-parent/8.3.3.Final-redhat-00002/jboss-integration-platform-parent-8.3.3.Final-redhat-00002.pom
-https\://repo1.maven.org/maven2/.error=
-https\://maven.repository.redhat.com/ga/.lastUpdated=1613576379920
-@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1613576379816
-https\://repo1.maven.org/maven2/.lastUpdated=1597257584307
-@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1613576379801

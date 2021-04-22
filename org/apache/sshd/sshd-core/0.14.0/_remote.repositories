@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Dec 05 17:33:44 ART 2019
-sshd-core-0.14.0.jar>redhat-ea-repository=
-sshd-core-0.14.0.pom>redhat-ea-repository=

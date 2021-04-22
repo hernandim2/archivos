@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 17 12:39:20 ART 2021
-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.infinispan\:infinispan-build-configuration-parent\:pom\:9.4.15.Final-redhat-00001 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/org/infinispan/infinispan-build-configuration-parent/9.4.15.Final-redhat-00001/infinispan-build-configuration-parent-9.4.15.Final-redhat-00001.pom
-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.infinispan\:infinispan-build-configuration-parent\:pom\:9.4.15.Final-redhat-00001 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/org/infinispan/infinispan-build-configuration-parent/9.4.15.Final-redhat-00001/infinispan-build-configuration-parent-9.4.15.Final-redhat-00001.pom
-https\://maven.repository.redhat.com/ga/.lastUpdated=1613576360224
-@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1613576359969
-@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1613576359927

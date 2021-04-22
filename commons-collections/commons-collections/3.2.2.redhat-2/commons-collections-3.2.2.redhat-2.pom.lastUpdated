@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 17 12:42:11 ART 2021
-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact commons-collections\:commons-collections\:pom\:3.2.2.redhat-2 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/commons-collections/commons-collections/3.2.2.redhat-2/commons-collections-3.2.2.redhat-2.pom
-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact commons-collections\:commons-collections\:pom\:3.2.2.redhat-2 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/commons-collections/commons-collections/3.2.2.redhat-2/commons-collections-3.2.2.redhat-2.pom
-https\://maven.repository.redhat.com/ga/.lastUpdated=1613576531349
-@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1613576531068
-@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1613576531056

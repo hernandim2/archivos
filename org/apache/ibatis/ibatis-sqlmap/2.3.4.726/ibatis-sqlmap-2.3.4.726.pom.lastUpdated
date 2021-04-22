@@ -1,7 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Dec 11 14:56:45 ART 2019
-http\://maven.repository.redhat.com/ga/.error=
-@default-newsan-nexcus-repository-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.lastUpdated=1576087003411
-http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.ibatis\:ibatis-sqlmap\:pom\:2.3.4.726 from/to newsan-nexcus-repository (http\://arbueap17.nwsn.local\:8081/nexus/content/groups/public/)\: arbueap17.nwsn.local
-https\://repo1.maven.org/maven2/.lastUpdated=1576087005001
-http\://maven.repository.redhat.com/ga/.lastUpdated=1576087004504

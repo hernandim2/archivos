@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Dec 05 17:33:43 ART 2019
-org.eclipse.sisu.inject-0.3.0.jar>redhat-ea-repository=
-org.eclipse.sisu.inject-0.3.0.pom>redhat-ea-repository=

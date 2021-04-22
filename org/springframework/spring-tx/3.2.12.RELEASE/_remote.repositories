@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Jun 16 12:13:20 ART 2020
-spring-tx-3.2.12.RELEASE-sources.jar>central=
-spring-tx-3.2.12.RELEASE.jar>newsan-nexcus-repository=
-spring-tx-3.2.12.RELEASE.pom>newsan-nexcus-repository=
