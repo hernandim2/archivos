@@ -1,4 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Jan 13 16:46:13 ART 2021
-https\://repo.maven.apache.org/maven2/.lastUpdated=1610567173670
+#Mon Apr 05 09:19:19 ART 2021
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.activemq\:activemq-camel\:pom\:5.11.0.redhat-630224 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.apache.activemq\:activemq-camel\:pom\:5.11.0.redhat-630224 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://repo.maven.apache.org/maven2/.lastUpdated=1617625159807
+https\://maven.repository.redhat.com/ga/.lastUpdated=1616381068747
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1616381066688
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1616381066683
 https\://repo.maven.apache.org/maven2/.error=

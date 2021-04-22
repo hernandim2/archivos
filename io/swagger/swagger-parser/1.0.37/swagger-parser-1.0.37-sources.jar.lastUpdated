@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 22 13:16:30 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1616429788717
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1616429786162
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1616429786159
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1616429787334
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact io.swagger\:swagger-parser\:jar\:sources\:1.0.37 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://maven.repository.redhat.com/ga/.lastUpdated=1616429786469
+https\://repo.maven.apache.org/maven2/.lastUpdated=1616429790244
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact io.swagger\:swagger-parser\:jar\:sources\:1.0.37 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 22 13:17:08 ART 2021
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:sources\:1.6.0.redhat-10 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:sources\:1.6.0.redhat-10 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://maven.repository.redhat.com/ga/.lastUpdated=1616429828632
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1616429827929
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1616429827926

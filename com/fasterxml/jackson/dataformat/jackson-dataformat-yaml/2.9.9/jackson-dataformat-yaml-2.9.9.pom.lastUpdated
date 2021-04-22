@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 17 12:41:30 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1613576490309
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1613576488523
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1613576488503
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1613576489442
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact com.fasterxml.jackson.dataformat\:jackson-dataformat-yaml\:pom\:2.9.9 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.9.9/jackson-dataformat-yaml-2.9.9.pom
+https\://maven.repository.redhat.com/ga/.lastUpdated=1613576488996
+https\://repo.maven.apache.org/maven2/.lastUpdated=1613576490678
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact com.fasterxml.jackson.dataformat\:jackson-dataformat-yaml\:pom\:2.9.9 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.9.9/jackson-dataformat-yaml-2.9.9.pom
+https\://repository.jboss.org/nexus/content/groups/public/.error=

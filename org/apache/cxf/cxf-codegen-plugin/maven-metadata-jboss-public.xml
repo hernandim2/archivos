@@ -36,10 +36,10 @@
       <version>3.2.4-jbossorg-1</version>
       <version>3.2.5-jbossorg-1</version>
       <version>3.2.15-SNAPSHOT</version>
-      <version>3.3.10-SNAPSHOT</version>
-      <version>3.4.3-SNAPSHOT</version>
+      <version>3.3.11-SNAPSHOT</version>
+      <version>3.4.4-SNAPSHOT</version>
       <version>3.5.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210203113055</lastUpdated>
+    <lastUpdated>20210421020931</lastUpdated>
   </versioning>
 </metadata>

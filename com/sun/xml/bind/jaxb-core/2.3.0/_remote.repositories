@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Aug 12 15:44:57 ART 2020
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 17 12:43:03 ART 2021
 jaxb-core-2.3.0.pom>maven.central=
+jaxb-core-2.3.0.jar>central=
 jaxb-core-2.3.0.jar>maven.central=
+jaxb-core-2.3.0.pom>central=

@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue May 21 15:41:05 ART 2019
-swagger-core-1.5.21.jar>central=
+#Mon Mar 22 13:13:06 ART 2021
 swagger-core-1.5.21.pom>central=
+swagger-core-1.5.21.jar>central=
+swagger-core-1.5.21-sources.jar>central=

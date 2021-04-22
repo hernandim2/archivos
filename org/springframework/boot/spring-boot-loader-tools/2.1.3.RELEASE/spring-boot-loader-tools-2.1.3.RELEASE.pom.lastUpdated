@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 22:25:08 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1616635508590
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1616635506690
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1616635506675
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1616635508106
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework.boot\:spring-boot-loader-tools\:pom\:2.1.3.RELEASE from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/org/springframework/boot/spring-boot-loader-tools/2.1.3.RELEASE/spring-boot-loader-tools-2.1.3.RELEASE.pom
+https\://maven.repository.redhat.com/ga/.lastUpdated=1616635507389
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-loader-tools\:pom\:2.1.3.RELEASE from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/org/springframework/boot/spring-boot-loader-tools/2.1.3.RELEASE/spring-boot-loader-tools-2.1.3.RELEASE.pom

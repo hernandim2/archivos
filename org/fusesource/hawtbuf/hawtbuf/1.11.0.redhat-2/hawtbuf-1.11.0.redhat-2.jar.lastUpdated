@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Mar 21 23:44:53 ART 2021
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.fusesource.hawtbuf\:hawtbuf\:jar\:1.11.0.redhat-2 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.fusesource.hawtbuf\:hawtbuf\:jar\:1.11.0.redhat-2 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://maven.repository.redhat.com/ga/.lastUpdated=1616381093531
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1616381085116
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1616381085043
