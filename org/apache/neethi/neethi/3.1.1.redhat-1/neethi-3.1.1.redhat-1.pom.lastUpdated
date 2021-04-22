@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 18:00:30 ART 2021
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.neethi\:neethi\:pom\:3.1.1.redhat-1 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/org/apache/neethi/neethi/3.1.1.redhat-1/neethi-3.1.1.redhat-1.pom
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.apache.neethi\:neethi\:pom\:3.1.1.redhat-1 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/org/apache/neethi/neethi/3.1.1.redhat-1/neethi-3.1.1.redhat-1.pom
+https\://maven.repository.redhat.com/ga/.lastUpdated=1619125230250
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1619125230028
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1619125230013

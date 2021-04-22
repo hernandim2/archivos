@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 18:16:34 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1619126194922
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1619125927012
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1619125924673
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1619126022014
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.springframework.boot\:spring-boot-test\:jar\:2.1.6.RELEASE from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/org/springframework/boot/spring-boot-test/2.1.6.RELEASE/spring-boot-test-2.1.6.RELEASE.jar
+https\://maven.repository.redhat.com/ga/.lastUpdated=1619126128877
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-test\:jar\:2.1.6.RELEASE from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/org/springframework/boot/spring-boot-test/2.1.6.RELEASE/spring-boot-test-2.1.6.RELEASE.jar

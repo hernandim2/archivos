@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 18:18:43 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1619126067516
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1619125926901
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1619125924547
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1619126021970
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact joda-time\:joda-time\:jar\:2.10.2 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/joda-time/joda-time/2.10.2/joda-time-2.10.2.jar
+https\://maven.repository.redhat.com/ga/.lastUpdated=1619126128990
+https\://repo.maven.apache.org/maven2/.lastUpdated=1619126323485
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact joda-time\:joda-time\:jar\:2.10.2 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/joda-time/joda-time/2.10.2/joda-time-2.10.2.jar
+https\://repository.jboss.org/nexus/content/groups/public/.error=

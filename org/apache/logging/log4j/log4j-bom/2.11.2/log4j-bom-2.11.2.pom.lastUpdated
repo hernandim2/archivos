@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 17:54:58 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1619124897728
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1619124895127
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1619124895114
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1619124896721
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-bom\:pom\:2.11.2 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/org/apache/logging/log4j/log4j-bom/2.11.2/log4j-bom-2.11.2.pom
+https\://maven.repository.redhat.com/ga/.lastUpdated=1619124895806
+https\://repo.maven.apache.org/maven2/.lastUpdated=1619124898165
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-bom\:pom\:2.11.2 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/org/apache/logging/log4j/log4j-bom/2.11.2/log4j-bom-2.11.2.pom
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 18:11:38 ART 2021
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.maven\:maven-plugin-registry\:jar\:2.0.6 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: nexus-nexus.noprod-apps.pro.edenor
+https\://repo.maven.apache.org/maven2/.lastUpdated=1619125898815
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven\:maven-plugin-registry\:jar\:2.0.6 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: nexus-nexus.noprod-apps.pro.edenor
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1619125639354
+https\://maven.repository.redhat.com/ga/.lastUpdated=1619125642797
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1619125639276

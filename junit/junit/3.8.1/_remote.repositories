@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 18:11:38 ART 2021
+junit-3.8.1.jar>central=
+junit-3.8.1.jar>redhat-ga-repository=
+junit-3.8.1.pom>redhat-ga-repository=
+junit-3.8.1.pom>central=

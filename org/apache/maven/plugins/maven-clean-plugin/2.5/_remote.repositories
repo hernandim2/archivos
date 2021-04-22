@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 18:11:27 ART 2021
+maven-clean-plugin-2.5.jar>redhat-ga-repository=
+maven-clean-plugin-2.5.pom>redhat-ga-repository=
+maven-clean-plugin-2.5.jar>central=
+maven-clean-plugin-2.5.pom>central=

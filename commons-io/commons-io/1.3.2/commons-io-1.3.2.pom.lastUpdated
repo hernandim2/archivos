@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 18:19:38 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1619126378272
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1619126376753
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1619126376743
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1619126377582
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact commons-io\:commons-io\:pom\:1.3.2 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom
+https\://maven.repository.redhat.com/ga/.lastUpdated=1619126377126
+https\://repo.maven.apache.org/maven2/.lastUpdated=1619126378677
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact commons-io\:commons-io\:pom\:1.3.2 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom
+https\://repository.jboss.org/nexus/content/groups/public/.error=

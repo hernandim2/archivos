@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 18:18:43 ART 2021
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1619126067475
+@default-edenor-releases-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.lastUpdated=1619125926855
+@default-edenor-nexus-https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.lastUpdated=1619125924498
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1619126021948
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/.error=Could not transfer artifact org.slf4j\:jul-to-slf4j\:jar\:1.7.26 from/to edenor-releases (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/repositories/releases/org/slf4j/jul-to-slf4j/1.7.26/jul-to-slf4j-1.7.26.jar
+https\://maven.repository.redhat.com/ga/.lastUpdated=1619126128491
+https\://repo.maven.apache.org/maven2/.lastUpdated=1619126323188
+https\://maven.repository.redhat.com/ga/.error=
+https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/.error=Could not transfer artifact org.slf4j\:jul-to-slf4j\:jar\:1.7.26 from/to edenor-nexus (https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/)\: Transfer failed for https\://nexus-nexus.noprod-apps.pro.edenor/nexus/content/groups/public/org/slf4j/jul-to-slf4j/1.7.26/jul-to-slf4j-1.7.26.jar
+https\://repository.jboss.org/nexus/content/groups/public/.error=

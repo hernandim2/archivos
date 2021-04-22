@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 18:20:06 ART 2021
+org.eclipse.sisu.plexus-0.3.2.pom>redhat-ga-repository=
+org.eclipse.sisu.plexus-0.3.2.jar>redhat-ga-repository=
